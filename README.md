@@ -1,2 +1,2 @@
-# Intro-To-Materials
-Introduction to Physically-Based Rendering Materials in Unreal Engine 4
+# Intro-To-Lighting
+Introduction to Lighting in Unreal Engine 4
